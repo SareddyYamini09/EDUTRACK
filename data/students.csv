@@ -1,0 +1,27 @@
+studentId,name,department,semester,email,GPA,enrolledCourses
+STU101,Aarav Sharma,CSE,5,aarav.sharma@edutrack.edu,3.85,DSA301;OS301;AI201
+STU102,Yamini Reddy,AI,5,yamini.reddy@edutrack.edu,3.96,AI201;ML301;DSA301
+STU103,Rohan Verma,CSE,3,rohan.verma@edutrack.edu,3.42,JAVA201;DBMS201
+STU104,Pooja Hegde,ECE,5,pooja.hegde@edutrack.edu,3.71,CN301;OS301
+STU105,Vikram Malhotra,IT,7,vikram.m@edutrack.edu,3.55,CLOUD401;SE302
+STU106,Ananya Iyer,AI,3,ananya.iyer@edutrack.edu,3.91,AI101;JAVA201
+STU107,Karthik Nair,CSE,5,karthik.nair@edutrack.edu,3.28,DSA301;DBMS201
+STU108,Sneha Patel,EEE,5,sneha.patel@edutrack.edu,3.64,CIR301;CN301
+STU109,Rahul Roy,IT,3,rahul.roy@edutrack.edu,3.15,JAVA201;WEB202
+STU110,Meera Joshi,AI,5,meera.joshi@edutrack.edu,3.88,ML301;AI201;DSA301
+STU111,Aditya Kulkarni,CSE,7,aditya.k@edutrack.edu,3.78,SE302;CLOUD401
+STU112,Divya Menon,ECE,3,divya.m@edutrack.edu,3.5,CN301;JAVA201
+STU113,Siddharth Rao,CSE,5,siddharth.r@edutrack.edu,3.62,DSA301;OS301
+STU114,Priyanka Sen,IT,5,priyanka.s@edutrack.edu,3.45,DBMS201;WEB202
+STU115,Varun Mehta,AI,7,varun.mehta@edutrack.edu,3.94,ML301;NLP401
+STU116,Ishita Gupta,CSE,3,ishita.g@edutrack.edu,3.69,JAVA201;DSA301
+STU117,Gaurav Sen,IT,5,gaurav.sen@edutrack.edu,3.82,DBMS201;OS301
+STU118,Tanvi Bhat,EEE,3,tanvi.bhat@edutrack.edu,3.39,CIR301;JAVA201
+STU119,Nikhil Chopra,ECE,7,nikhil.c@edutrack.edu,3.58,CN301;CLOUD401
+STU120,Ritu Das,AI,5,ritu.das@edutrack.edu,3.76,AI201;ML301
+STU121,Manish Pandey,CSE,5,manish.p@edutrack.edu,3.31,DSA301;JAVA201
+STU122,Kavita Pillai,IT,3,kavita.p@edutrack.edu,3.73,WEB202;DBMS201
+STU123,Arjun Nambiar,ECE,5,arjun.n@edutrack.edu,3.6,CN301;CIR301
+STU124,Swati Chawla,AI,7,swati.c@edutrack.edu,3.98,ML301;NLP401;AI201
+STU125,Deepak Verma,CSE,3,deepak.v@edutrack.edu,3.25,JAVA201;DBMS201
+ST107,Karthik Nair,EEE,1,karthik@gmail.com,4.0,AI201

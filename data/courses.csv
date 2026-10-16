@@ -1,0 +1,13 @@
+courseCode,courseName,department,credits,faculty,prerequisites
+JAVA201,Object Oriented Java,CSE,3,Dr. James Gosling,
+DSA301,Data Structures & Algorithms,CSE,4,Dr. Alan Turing,JAVA201
+DBMS201,Database Management Systems,IT,3,Dr. Edgar Codd,
+OS301,Operating Systems Principles,CSE,4,Dr. Andrew Tanenbaum,DSA301
+CN301,Computer Networks,ECE,3,Dr. Andrew Tanenbaum,OS301
+AI101,Introduction to Artificial Intelligence,AI,3,Dr. Fei-Fei Li,
+AI201,Advanced Artificial Intelligence,AI,4,Dr. Geoffrey Hinton,AI101
+ML301,Machine Learning Techniques,AI,4,Dr. Geoffrey Hinton,AI201;DSA301
+NLP401,Natural Language Processing,AI,3,Dr. Geoffrey Hinton,ML301
+WEB202,Full Stack Web Engineering,IT,3,Dr. Edgar Codd,JAVA201
+SE302,Software Engineering Architecture,CSE,3,Dr. Donald Knuth,JAVA201
+CLOUD401,Cloud Infrastructure Systems,IT,4,Dr. Leslie Lamport,CN301;OS301

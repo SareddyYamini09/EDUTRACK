@@ -1,0 +1,11 @@
+facultyId,name,department,specialization,availableCourses
+FAC01,Dr. Alan Turing,CSE,Algorithms & Automata,DSA301;OS301
+FAC02,Dr. Geoffrey Hinton,AI,Deep Learning & Neural Nets,AI201;ML301;NLP401
+FAC03,Dr. Edgar Codd,IT,Relational Database Systems,DBMS201;WEB202
+FAC04,Dr. Andrew Tanenbaum,ECE,Computer Networks & OS,CN301;OS301
+FAC05,Dr. James Gosling,CSE,Programming & OOP Systems,JAVA201;SE302
+FAC06,Dr. Fei-Fei Li,AI,Computer Vision & AI Systems,AI101;AI201
+FAC07,Dr. Donald Knuth,CSE,Concrete Mathematics & Analysis,DSA301;SE302
+FAC08,Dr. Claude Shannon,ECE,Information Theory & Signals,CN301;CIR301
+FAC09,Dr. Leslie Lamport,IT,Distributed & Cloud Computing,CLOUD401;OS301
+FAC10,Dr. Nikola Tesla,EEE,Electromagnetic Circuits,CIR301

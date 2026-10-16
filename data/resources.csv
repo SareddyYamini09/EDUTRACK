@@ -1,0 +1,13 @@
+resourceId,resourceName,resourceType,location,capacity,availability
+RES01,Auditorium Main,Lecture Hall,Block-A,200,true
+RES02,Hall-A Seminar Room,Classroom,Block-A,120,true
+RES03,Hall-B Smart Room,Classroom,Block-B,80,true
+RES04,Hall-C Tiered Room,Classroom,Block-B,100,false
+RES05,Lab-101 Computing Core,Computer Lab,Block-C,60,true
+RES06,Lab-202 AI & GPU Cluster,Specialized Lab,Block-C,50,true
+RES07,Lab-301 Cloud & Networks,Computer Lab,Block-C,60,true
+RES08,Library Discussion Room 1,Study Room,Library-2F,20,true
+RES09,Library Discussion Room 2,Study Room,Library-2F,20,false
+RES10,Electronics Workshop Lab,Hardware Lab,Block-D,45,true
+RES11,Innovation Incubation Bay,Project Space,Block-E,35,true
+RES12,Conference Boardroom,Executive Room,Admin-1F,25,true

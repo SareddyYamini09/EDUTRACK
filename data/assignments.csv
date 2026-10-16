@@ -1,0 +1,21 @@
+assignmentId,courseCode,title,description,submissionDate,studentId,marks
+ASN01,DSA301,Graph Algorithms Implementation,Implement Dijkstra and Aho-Corasick in Java,2026-10-01,STU101,92.5
+ASN02,DSA301,Graph Algorithms Implementation,Implement Dijkstra and Aho-Corasick graph solver,2026-10-01,STU102,98.0
+ASN03,AI201,Heuristic Search Agents,Design A-star search heuristic algorithm for maze,2026-10-05,STU102,95.0
+ASN04,ML301,Neural Network From Scratch,Gradient descent backpropagation model training,2026-10-10,STU102,97.5
+ASN05,JAVA201,Polymorphism & Collections,Design university management hierarchy in Java,2026-09-25,STU103,84.0
+ASN06,DBMS201,B-Tree Indexing Engine,Write B-Tree index structure for relational tuples,2026-10-08,STU103,88.0
+ASN07,CN301,Sliding Window Protocol,Simulate Go-Back-N protocol with packet drops,2026-10-12,STU104,89.5
+ASN08,OS301,Process Scheduler Simulation,Implement Multi-Level Feedback Queue scheduler,2026-10-15,STU101,91.0
+ASN09,CLOUD401,Kubernetes Deployment,Configure container orchestration microservice cluster,2026-10-18,STU105,87.0
+ASN10,SE302,Design Patterns Case Study,Implement Factory and Observer structural patterns,2026-10-20,STU105,85.5
+ASN11,AI101,Propositional Logic Solver,Truth table solver and DPLL satisfiability check,2026-09-30,STU106,94.0
+ASN12,JAVA201,Polymorphism & Collections,Design university management hierarchy in Java OOP,2026-09-25,STU106,92.0
+ASN13,DSA301,Dynamic Programming Suite,Matrix Chain Multiplication and Levenshtein code,2026-10-04,STU107,78.0
+ASN14,DBMS201,SQL Query Optimization,Implement relational algebra query plan optimizer,2026-10-09,STU107,81.5
+ASN15,ML301,Support Vector Machines,Quadratic programming dual problem solver implementation,2026-10-11,STU110,96.0
+ASN16,AI201,Reinforcement Q-Learning,Markov decision process gridworld Q-learning model,2026-10-14,STU110,94.5
+ASN17,CLOUD401,Consensus Protocol Raft,Implement leader election and log replication logic,2026-10-22,STU111,93.0
+ASN18,DSA301,Network Flow Ford-Fulkerson,Max flow residual network min-cut implementation,2026-10-06,STU113,89.0
+ASN19,NLP401,Transformer Attention Layer,Multi-head scaled dot-product self-attention network,2026-10-25,STU115,99.0
+ASN20,DSA301,Suffix Array & LCP Engine,Implement Suffix Array and Kasai LCP algorithm,2026-10-02,STU116,90.0
